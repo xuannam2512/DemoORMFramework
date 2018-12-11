@@ -1,0 +1,7 @@
+C:\Users\XuanNam\source\repos\ConsoleApp3\DeveloperAttribute\obj\Debug\DeveloperAttribute.csprojAssemblyReference.cache
+C:\Users\XuanNam\source\repos\ConsoleApp3\DeveloperAttribute\obj\Debug\DeveloperAttribute.csproj.CoreCompileInputs.cache
+C:\Users\XuanNam\source\repos\ConsoleApp3\DeveloperAttribute\bin\Debug\DeveloperAttribute.exe.config
+C:\Users\XuanNam\source\repos\ConsoleApp3\DeveloperAttribute\bin\Debug\DeveloperAttribute.exe
+C:\Users\XuanNam\source\repos\ConsoleApp3\DeveloperAttribute\bin\Debug\DeveloperAttribute.pdb
+C:\Users\XuanNam\source\repos\ConsoleApp3\DeveloperAttribute\obj\Debug\DeveloperAttribute.exe
+C:\Users\XuanNam\source\repos\ConsoleApp3\DeveloperAttribute\obj\Debug\DeveloperAttribute.pdb
